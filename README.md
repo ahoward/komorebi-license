@@ -41,3 +41,5 @@ use, modification, learning and reference
 
 - [komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for
   Windows
+- [masir](https://github.com/LGUG2Z/masir) - Focus Follows Mouse for
+  Windows
