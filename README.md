@@ -43,3 +43,4 @@ use, modification, learning and reference
   Windows
 - [masir](https://github.com/LGUG2Z/masir) - Focus Follows Mouse for
   Windows
+- [wpm](https://github.com/LGUG2Z/wpm) - Windows Process Manager
